@@ -1,0 +1,2 @@
+# resource
+Datos esenciales 
