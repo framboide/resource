@@ -1,2 +1,2 @@
 # resource
-Datos esenciales 
+Recursos para el desarrollo 
